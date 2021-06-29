@@ -1,5 +1,8 @@
+#create a function
 def abbr():	
-	abbrV = input("Enter the Abbrevation : ")
+	abbrV = input("Enter the Abbrevation : ")   #take the input from the user
+	
+	#run through follow condition
 	if (abbrV == 'ASAP'):
 		print("As Soon As Possible")
 	elif (abbrV == 'FML'):
@@ -17,4 +20,5 @@ def abbr():
 	else:
 		print("Sorry..!\nwe do not have the Abbrevation for the following " + abbrV + " in our library, we let you know when we updated" )
 
+#run the function
 abbr()
