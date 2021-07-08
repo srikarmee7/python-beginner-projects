@@ -8,6 +8,7 @@ List of python projects in this repository
 > biography_info program
 > phonenumber and email extracter
 > Rock Paper Scissor game
-
+>indent program
+>collatz sequence
 
 These are some beginner projects to learn python, hope these are useful.
